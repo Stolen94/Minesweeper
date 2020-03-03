@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>flag.ico</file>
+        <file>mine.ico</file>
+        <file>mine_triggered.ico</file>
+        <file>smile.ico</file>
+        <file>smile_cool.ico</file>
+        <file>smile_dead.ico</file>
+        <file>smile_o.ico</file>
+        <file>mine_false.ico</file>
+    </qresource>
+</RCC>
